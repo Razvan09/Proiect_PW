@@ -1,0 +1,11 @@
+div.chenar {
+    background-color: black; width:20%; opacity:0.7;}
+div.chenar1 {
+    background-color:black; width:600px; height:30%; opacity:0.7;}
+div.chenar3 {
+    background-color: black; width: 50%; height:50%; opacity: 0.7; font-weight:bolder;
+}
+
+body {
+    background-repeat: no-repeat; background-size: 100% 100%;
+}
